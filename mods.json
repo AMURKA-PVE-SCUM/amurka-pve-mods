@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "6d08a967512dce1a6cf52a8ced60a6793b8f578b",
+  "revision": "0e0f88bb4d3b7b6e077d6ee5d13fdcb954ece0c5",
   "files": [
     {
       "path": "buildings/zzz_BrickRosewood_P.pak",
@@ -228,11 +228,6 @@
       "size": 532
     },
     {
-      "path": "skins/MotoArmorMod.pak",
-      "sha": "d61385809e2e774ada3ccc33a12167a6f69925e8",
-      "size": 93253
-    },
-    {
       "path": "skins/z_CarPaint_Chrome.pak",
       "sha": "cf4311d1b181638d5acf73cc4d409a2b03f70b20",
       "size": 2983815
@@ -258,16 +253,6 @@
       "size": 1400507
     },
     {
-      "path": "skins/zzz_CollegeJacket_AMURKA_P.pak",
-      "sha": "26dffd4288f40ffb4730d7c0c70a890dde5cc58a",
-      "size": 2547031
-    },
-    {
-      "path": "skins/zzz_HikingBackpack_AMURKA_P.pak",
-      "sha": "1c13c2bbb903eb4deb5fb4e307b99751f968dfb2",
-      "size": 11722749
-    },
-    {
       "path": "skins/zzz_Hospital_Shirt_Pants_P.pak",
       "sha": "1401c245475f2603df9b82e846ce58c7b501ad3b",
       "size": 2455434
@@ -283,24 +268,14 @@
       "size": 7423233
     },
     {
-      "path": "skins/zzz_NeganJacket_AMURKA_P.pak",
-      "sha": "0ca92645ad0a36bde81e576c9c2fab5ced72215a",
-      "size": 1366376
-    },
-    {
-      "path": "skins/zzz_Pajama_AMURKA_P.pak",
-      "sha": "4c059dbccf5396cc582d3fff129a324d41ea74b0",
-      "size": 3713009
-    },
-    {
-      "path": "skins/zzz_Shimoro_AMURKA_P.pak",
-      "sha": "c8c0c91ee33d6b107286936a79dfa33ec35c9ec3",
-      "size": 17564395
-    },
-    {
       "path": "skins/zzz_Skins_AMURKA_P.pak",
       "sha": "e04e5914bcc67410232e979166ccaecebeffc9c6",
       "size": 13775356
+    },
+    {
+      "path": "skins/zzz_TacticalSet_AMURKA_P.pak",
+      "sha": "caa107ce7b72f116bf3ed77a9e0bcea835e6a460",
+      "size": 2358692
     },
     {
       "path": "skins/zzz_TightsMC_AMURKA_P.pak",
@@ -308,14 +283,9 @@
       "size": 1304092
     },
     {
-      "path": "skins/zzz_WhiteTang_Ornament_P.pak",
-      "sha": "509bd6295eddae4e3a5a4315895d666d2adb2b34",
-      "size": 1406567
-    },
-    {
-      "path": "skins/zzzz_ClassicShirt_Neon_P.pak",
-      "sha": "80063a33bb4ab8f54c2a69d8ccc7081468e65e7c",
-      "size": 1364314
+      "path": "skins/zzz_Tights_And_LeatherJacket_AMURKA_P.pak",
+      "sha": "f8751b1dc1858fed689f576cb0c631a49db24cb1",
+      "size": 1530471
     },
     {
       "path": "skins/zzzz_DannyTrejo_Shirt_P.pak",
@@ -371,11 +341,6 @@
       "path": "skins/zzzz_TCBackpack_Texture_P.pak",
       "sha": "0728b0b3e287dbbd9d135cc723ddf931c55edca1",
       "size": 1400576
-    },
-    {
-      "path": "skins/zzzzzzz_MilitarySet_AMURKA_Tactical_FULL_P.pak",
-      "sha": "825020ee1d670dc2b50047969c66a0b67023baac",
-      "size": 1023018
     },
     {
       "path": "speed/zz_Dinghy_speed_max.pak",
