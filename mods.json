@@ -1,0 +1,406 @@
+{
+  "schemaVersion": 1,
+  "revision": "640cb0a5c65b959ff32c4199aa63869a4bfd0bcc",
+  "files": [
+    {
+      "path": "buildings/zzz_BrickRosewood_P.pak",
+      "sha": "7c3d79b8c5e89c760d6111d6c34c267503220c86",
+      "size": 8411660
+    },
+    {
+      "path": "buildings/zzz_TwigRosewood_P.pak",
+      "sha": "0033e501679489e3cac808d6bd456ecab77e7830",
+      "size": 4217602
+    },
+    {
+      "path": "buildings/zzz_WallGloss_P_fixed.pak",
+      "sha": "25f86d3643d68303406ebb6a4476b1aa703bd77b",
+      "size": 1762869
+    },
+    {
+      "path": "buildings/zzz_WoodRosewood_P.pak",
+      "sha": "62d9c17a5ccac4b49cd78bb2553905649570b9f6",
+      "size": 16823077
+    },
+    {
+      "path": "core/AdminComand.pak",
+      "sha": "95ba564654a1e569a58777f11e51fcfede2d0b2f",
+      "size": 10165
+    },
+    {
+      "path": "core/AllAmmoStacks100.pak",
+      "sha": "5357315c24982c144ad2dcc5074a83337d5f389a",
+      "size": 623097
+    },
+    {
+      "path": "core/Batareyka.pak",
+      "sha": "a9a3678b87fbebfcb36d0b7c2e854e27226db3c9",
+      "size": 5219
+    },
+    {
+      "path": "core/BistroeVostonovlenieVodyStaminy.pak",
+      "sha": "116ca23e33e6e0bc77315215116e01bb961c7a67",
+      "size": 8458
+    },
+    {
+      "path": "core/Bronik.pak",
+      "sha": "eb00d326aa52d82c773ddab818b1a89d16df10ec",
+      "size": 21387
+    },
+    {
+      "path": "core/Bronik2.pak",
+      "sha": "051a2e55db76bd036cc40f5464794963ec832112",
+      "size": 20154
+    },
+    {
+      "path": "core/DryQuickMOD-byKZ.pak",
+      "sha": "57cde4d288eab9043dd01733f3e025e68cb4d85b",
+      "size": 4191
+    },
+    {
+      "path": "core/FoodCommandADMIN-byKZ.pak",
+      "sha": "50c3a97c62a65efb17b7a15fd0ec0f0b7a587376",
+      "size": 3722
+    },
+    {
+      "path": "core/Gena5000_12x12.pak",
+      "sha": "963f3e6977ccef53c433e8e85335bdc4f2839c1d",
+      "size": 10980
+    },
+    {
+      "path": "core/Koptilka.pak",
+      "sha": "36b13a0e058f4075f5cd68001159d876ba042aec",
+      "size": 28298
+    },
+    {
+      "path": "core/KostumZombi.pak",
+      "sha": "77558e9769bb81392df14bd564aa9633f37ecd13",
+      "size": 4646
+    },
+    {
+      "path": "core/Map.pak",
+      "sha": "fd1c8f76a33aca9dc8dfb9b1d354cfb63a2cbd04",
+      "size": 39855610
+    },
+    {
+      "path": "core/NetZaplatok.pak",
+      "sha": "a541ee9fb891679d6f094f2f18dae919350db3bd",
+      "size": 7002256
+    },
+    {
+      "path": "core/PanOnly.pak",
+      "sha": "dae99c014e0fc5412675084e35636517e3bec030",
+      "size": 138330
+    },
+    {
+      "path": "core/PoyasNew.pak",
+      "sha": "10acfe6b6dee403e5348565dc272c915e3654407",
+      "size": 4952
+    },
+    {
+      "path": "core/PrisonerRespawningFlightSuit.pak",
+      "sha": "d80a2836f78268ddafa4c734215e0875bde602aa",
+      "size": 25499
+    },
+    {
+      "path": "core/RemkaOtvertkaKraskaStaki.pak",
+      "sha": "1d93bce214e81b81b8c5c37db9e6c20d1819833b",
+      "size": 524967
+    },
+    {
+      "path": "core/Rukzak12x100x2000kg.pak",
+      "sha": "5d690458ca1e76471e0598b4b8d36d503a0a43b7",
+      "size": 20013
+    },
+    {
+      "path": "core/SCUM_UnofficialEditorModLoader_P.pak",
+      "sha": "8d396a853960992955beba42f544713aa593f36e",
+      "size": 57479
+    },
+    {
+      "path": "core/Samolety.pak",
+      "sha": "b6c599a96f45577312210193948dca02f36b94e2",
+      "size": 114981
+    },
+    {
+      "path": "core/Swords.pak",
+      "sha": "e4ae6968a78795a99ca84a89eb9c2bc1cfc7d09b",
+      "size": 50724
+    },
+    {
+      "path": "core/UltraJoint_P.pak",
+      "sha": "922c27c9efadd94fae23904928fa7d4055cdc39b",
+      "size": 66689
+    },
+    {
+      "path": "core/maxperegruz.pak",
+      "sha": "f5fbd5aba17ccef5e7aac29578a7ba4287a2d3ce",
+      "size": 50390
+    },
+    {
+      "path": "core/morskayaVOda.pak",
+      "sha": "26b8eded7dec7c1eab29c66dbf899ec55ec6a5de",
+      "size": 7883
+    },
+    {
+      "path": "core/odejdaNePachkaetsy.pak",
+      "sha": "deb2e8581a8797c3e9b0c5b7c1afa632621190df",
+      "size": 9055
+    },
+    {
+      "path": "core/pakchunk901-CustomFurnitureModCraftables_P.pak",
+      "sha": "58175262346bff2c66e09ccb33656a6e84770712",
+      "size": 65928994
+    },
+    {
+      "path": "core/pakchunk901-CustomFurnitureModCraftables_P.sig",
+      "sha": "27a37bf89b0ff717e5cd4c085eecb36fc6e9fea9",
+      "size": 536
+    },
+    {
+      "path": "core/pakchunk916-Bell47_P.pak",
+      "sha": "c11a20cf1f4cf74a58eeb255f22cb97b785484ff",
+      "size": 56952095
+    },
+    {
+      "path": "core/pakchunk916-Bell47_P.sig",
+      "sha": "01511155988f95bb33e738a18e7725d5e07aa69b",
+      "size": 536
+    },
+    {
+      "path": "core/z_Craft_Base_Furniture.pak",
+      "sha": "016e768989dce64d77c146bd3542bb0cf468d427",
+      "size": 101036
+    },
+    {
+      "path": "core/zzz_AMURKA_mini_map.pak",
+      "sha": "1c55d992268b56f42a57cb805028e9468ee7ab88",
+      "size": 8467911
+    },
+    {
+      "path": "core/zzz_TCBackpack_Volume_P.pak",
+      "sha": "90c3bed38d3914a22305aafea4b35f561da3f335",
+      "size": 3637
+    },
+    {
+      "path": "core/zzzz_Craft_BCU_Weapons_P.pak",
+      "sha": "a5412e79e24b9202b526c170bd226dc4d446ea2b",
+      "size": 22276
+    },
+    {
+      "path": "core/zzzz_CustomFurniture_Well_Bed_Lamps_P.pak",
+      "sha": "dcd74ef3ed2e92a62b6d3edbff587b785db6590c",
+      "size": 73282
+    },
+    {
+      "path": "core/zzzz_SCUM_BoostOfEnergy_AllStats_Hybrid_NewBase_P.pak",
+      "sha": "47532fbfd545e6e1be9c9e1cd9a1915af57c01b0",
+      "size": 9617
+    },
+    {
+      "path": "core/zzzz_SCUM_NewLoadingScreen_P.pak",
+      "sha": "481d65ef5ace7dbcb2f6860d7e7fb65dbd85322a",
+      "size": 8297511
+    },
+    {
+      "path": "core/zzzzz_Bosses_And_Nurse_P.pak",
+      "sha": "b94e2508d302bc700c9d8e16ae1f5d90115e725d",
+      "size": 15486139
+    },
+    {
+      "path": "core/zzzzzz_TwitchDLC_P.pak",
+      "sha": "f9f3aed3d6e1675ccf39c9718c3f7a0cc59ce749",
+      "size": 9218952
+    },
+    {
+      "path": "core/zzzzzz_TwitchDLC_P.sig",
+      "sha": "20d04c70294007837e413b51fcb1c95d6e1c9e22",
+      "size": 902220
+    },
+    {
+      "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.pak",
+      "sha": "e19d58a52e7c21cc226878636e7f51fe9af89acd",
+      "size": 49291230
+    },
+    {
+      "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.sig",
+      "sha": "872416e494957111c0d2300503fde0c847178175",
+      "size": 532
+    },
+    {
+      "path": "skins/MotoArmorMod.pak",
+      "sha": "d61385809e2e774ada3ccc33a12167a6f69925e8",
+      "size": 93253
+    },
+    {
+      "path": "skins/z_CarPaint_Chrome.pak",
+      "sha": "c38956b0fd8d37e54389870d049953a2aacc5caf",
+      "size": 2594158
+    },
+    {
+      "path": "skins/z_PlanePaint_Chrome.pak",
+      "sha": "c4577b3915b6d97da4d639d3fcd86d318b30c65f",
+      "size": 798009
+    },
+    {
+      "path": "skins/zzz_AMURKA_StabproofVest_P.pak",
+      "sha": "c8aafcf7b1affd7ea22a806151e75bf295133875",
+      "size": 1400525
+    },
+    {
+      "path": "skins/zzz_AMURKA_TCBackpack_P.pak",
+      "sha": "c1037674e92e363f8a996928dfe92626d72bfdd2",
+      "size": 2341999
+    },
+    {
+      "path": "skins/zzz_Backpack_AMURKA_P.pak",
+      "sha": "806bed7ea08ae16f42e718aa5e83af0d4b791923",
+      "size": 1400507
+    },
+    {
+      "path": "skins/zzz_CollegeJacket_AMURKA_P.pak",
+      "sha": "26dffd4288f40ffb4730d7c0c70a890dde5cc58a",
+      "size": 2547031
+    },
+    {
+      "path": "skins/zzz_HikingBackpack_AMURKA_P.pak",
+      "sha": "1c13c2bbb903eb4deb5fb4e307b99751f968dfb2",
+      "size": 11722749
+    },
+    {
+      "path": "skins/zzz_Hospital_Shirt_Pants_P.pak",
+      "sha": "1401c245475f2603df9b82e846ce58c7b501ad3b",
+      "size": 2455434
+    },
+    {
+      "path": "skins/zzz_LeatherJacket_AMURKA_P.pak",
+      "sha": "38dd2108bfcd21d05d072b514e729eeb65e66e31",
+      "size": 1372377
+    },
+    {
+      "path": "skins/zzz_MilitarySet_AMURKA_P.pak",
+      "sha": "79293f123bc7fab619d36e0b0620e7fdf7f16d56",
+      "size": 7423233
+    },
+    {
+      "path": "skins/zzz_NeganJacket_AMURKA_P.pak",
+      "sha": "0ca92645ad0a36bde81e576c9c2fab5ced72215a",
+      "size": 1366376
+    },
+    {
+      "path": "skins/zzz_Pajama_AMURKA_P.pak",
+      "sha": "4c059dbccf5396cc582d3fff129a324d41ea74b0",
+      "size": 3713009
+    },
+    {
+      "path": "skins/zzz_Shimoro_AMURKA_P.pak",
+      "sha": "c8c0c91ee33d6b107286936a79dfa33ec35c9ec3",
+      "size": 17564395
+    },
+    {
+      "path": "skins/zzz_Skins_AMURKA_P.pak",
+      "sha": "e04e5914bcc67410232e979166ccaecebeffc9c6",
+      "size": 13775356
+    },
+    {
+      "path": "skins/zzz_TightsMC_AMURKA_P.pak",
+      "sha": "f4c46bf528a6cd83058e53e8dfe865c30cad6075",
+      "size": 1304092
+    },
+    {
+      "path": "skins/zzz_WhiteTang_Ornament_P.pak",
+      "sha": "509bd6295eddae4e3a5a4315895d666d2adb2b34",
+      "size": 1406567
+    },
+    {
+      "path": "skins/zzzz_ClassicShirt_Neon_P.pak",
+      "sha": "80063a33bb4ab8f54c2a69d8ccc7081468e65e7c",
+      "size": 1364314
+    },
+    {
+      "path": "skins/zzzz_DannyTrejo_Shirt_P.pak",
+      "sha": "3110a6931822d5ba955dd3605540c01df585960f",
+      "size": 43687
+    },
+    {
+      "path": "skins/zzzz_DesertCamo_CleanLeggings_P.pak",
+      "sha": "474df7026cd11393c8da809a87358429c4c2f9dc",
+      "size": 5889263
+    },
+    {
+      "path": "skins/zzzz_Hoodie_Snow_New_P.pak",
+      "sha": "cbbbcca52b643e4b42ec1d8c7774fa5468f0cd61",
+      "size": 351744
+    },
+    {
+      "path": "skins/zzzz_JailSet_P.pak",
+      "sha": "e5113b5f11f851d18c119b07824ec520f7470a73",
+      "size": 15080416
+    },
+    {
+      "path": "skins/zzzz_Kilt_Pack_P.pak",
+      "sha": "d7d942d48d745e5a8f9320a6d15dd8c9555abe75",
+      "size": 5600979
+    },
+    {
+      "path": "skins/zzzz_MultiCam_P.pak",
+      "sha": "7d176c405ab8d1e0873e6c3293f0a7ba24f992b8",
+      "size": 345776
+    },
+    {
+      "path": "skins/zzzz_Pants_New_P.pak",
+      "sha": "d5a2185149bdf80b587c4d0dd71b6e9765b1ce0e",
+      "size": 703335
+    },
+    {
+      "path": "skins/zzzz_Qipao_Yellow_P.pak",
+      "sha": "02982e834087355ea8b83c3964f2bee638feb17d",
+      "size": 528651
+    },
+    {
+      "path": "skins/zzzz_Shirt_New_P.pak",
+      "sha": "c28c7af111c7662f9e7fc43750e74158cb3689b9",
+      "size": 11189512
+    },
+    {
+      "path": "skins/zzzz_Shoes_New_P.pak",
+      "sha": "28d221e28a0b44353e09aef90f903a7d0c21a249",
+      "size": 351816
+    },
+    {
+      "path": "skins/zzzz_TCBackpack_Texture_P.pak",
+      "sha": "0728b0b3e287dbbd9d135cc723ddf931c55edca1",
+      "size": 1400576
+    },
+    {
+      "path": "skins/zzzzzzz_MilitarySet_AMURKA_Tactical_FULL_P.pak",
+      "sha": "825020ee1d670dc2b50047969c66a0b67023baac",
+      "size": 1023018
+    },
+    {
+      "path": "speed/zz_Dinghy_speed_max.pak",
+      "sha": "6e6bcd8c62a1fe117c1be37bc063fb4116f80b95",
+      "size": 1646
+    },
+    {
+      "path": "weapons/zzz_AKM_Gold.pak",
+      "sha": "a666a119243531a50bebb999c4640866b0d5f5f5",
+      "size": 6995100
+    },
+    {
+      "path": "weapons/zzz_Block21_AMURKA_P.pak",
+      "sha": "873150cc2db36e26a95fe0e375af0fc6cb68de9e",
+      "size": 6995090
+    },
+    {
+      "path": "weapons/zzz_RPG7_Gold.pak",
+      "sha": "b152ab016a20e88ec195b57d3ffb5d117cf06f26",
+      "size": 6298177
+    },
+    {
+      "path": "weapons/zzz_RPK_Gold.pak",
+      "sha": "6d9e460b0baeac7ddde7374a9542100e84d2bfe2",
+      "size": 13987846
+    }
+  ]
+}
