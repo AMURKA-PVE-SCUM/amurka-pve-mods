@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "0e0f88bb4d3b7b6e077d6ee5d13fdcb954ece0c5",
+  "revision": "84ed89fbdb5fb3ae9e210859cade7ed672b34b56",
   "files": [
     {
       "path": "buildings/zzz_BrickRosewood_P.pak",
@@ -219,8 +219,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.pak",
-      "sha": "e19d58a52e7c21cc226878636e7f51fe9af89acd",
-      "size": 49291230
+      "sha": "5bb28c259e8e7727990b400401bf45e6937f4514",
+      "size": 49290632
     },
     {
       "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.sig",
