@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "cd84fac0eb83b3512910e29dac3a3c07cb4688da",
+  "revision": "38256eedc9be53880cf63312eea7386b28c8922e",
   "files": [
     {
       "path": "buildings/zzz_BrickRosewood_P.pak",
@@ -231,11 +231,6 @@
       "path": "skins/MotoArmorMod.pak",
       "sha": "d61385809e2e774ada3ccc33a12167a6f69925e8",
       "size": 93253
-    },
-    {
-      "path": "skins/z_CarPaint_Chrome.pak",
-      "sha": "c38956b0fd8d37e54389870d049953a2aacc5caf",
-      "size": 2594158
     },
     {
       "path": "skins/z_PlanePaint_Chrome.pak",
