@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "84ed89fbdb5fb3ae9e210859cade7ed672b34b56",
+  "revision": "3cb21c292a5f7ae08e95aa55d1c3b3c591ae6c77",
   "files": [
     {
       "path": "buildings/zzz_BrickRosewood_P.pak",
@@ -133,9 +133,14 @@
       "size": 66689
     },
     {
-      "path": "core/maxperegruz.pak",
-      "sha": "f5fbd5aba17ccef5e7aac29578a7ba4287a2d3ce",
-      "size": 50390
+      "path": "core/maxperegruz_P.pak",
+      "sha": "589ad9295be2dadc85aaf77dc39f7296ec7e35c4",
+      "size": 11340
+    },
+    {
+      "path": "core/maxperegruz_P.sig",
+      "sha": "872416e494957111c0d2300503fde0c847178175",
+      "size": 532
     },
     {
       "path": "core/morskayaVOda.pak",
