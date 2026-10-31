@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "3cb21c292a5f7ae08e95aa55d1c3b3c591ae6c77",
+  "revision": "114d53a3d43482b1dcaf1376161bb6572c65d387",
   "files": [
     {
       "path": "buildings/zzz_BrickRosewood_P.pak",
@@ -173,6 +173,16 @@
       "size": 536
     },
     {
+      "path": "core/pakchunk917-TrotterFly_P.pak",
+      "sha": "31e8063779b217cc5ca59dd311773e60543f4d0b",
+      "size": 43480522
+    },
+    {
+      "path": "core/pakchunk917-TrotterFly_P.sig",
+      "sha": "01511155988f95bb33e738a18e7725d5e07aa69b",
+      "size": 536
+    },
+    {
       "path": "core/z_Craft_Base_Furniture.pak",
       "sha": "016e768989dce64d77c146bd3542bb0cf468d427",
       "size": 101036
@@ -224,8 +234,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.pak",
-      "sha": "5bb28c259e8e7727990b400401bf45e6937f4514",
-      "size": 49290632
+      "sha": "598cd69c25ed2f2560d24eeaabc10f59538d3521",
+      "size": 49361830
     },
     {
       "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.sig",
