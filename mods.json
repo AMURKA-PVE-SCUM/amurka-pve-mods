@@ -1,27 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "114d53a3d43482b1dcaf1376161bb6572c65d387",
+  "revision": "e8cd01c49f3e1153dfa582cd64d5bdf898a0292d",
   "files": [
-    {
-      "path": "buildings/zzz_BrickRosewood_P.pak",
-      "sha": "7c3d79b8c5e89c760d6111d6c34c267503220c86",
-      "size": 8411660
-    },
-    {
-      "path": "buildings/zzz_TwigRosewood_P.pak",
-      "sha": "0033e501679489e3cac808d6bd456ecab77e7830",
-      "size": 4217602
-    },
-    {
-      "path": "buildings/zzz_WallGloss_P_fixed.pak",
-      "sha": "25f86d3643d68303406ebb6a4476b1aa703bd77b",
-      "size": 1762869
-    },
-    {
-      "path": "buildings/zzz_WoodRosewood_P.pak",
-      "sha": "62d9c17a5ccac4b49cd78bb2553905649570b9f6",
-      "size": 16823077
-    },
     {
       "path": "core/AdminComand.pak",
       "sha": "95ba564654a1e569a58777f11e51fcfede2d0b2f",
@@ -183,9 +163,19 @@
       "size": 536
     },
     {
+      "path": "core/z_CarPaint_Chrome.pak",
+      "sha": "cf4311d1b181638d5acf73cc4d409a2b03f70b20",
+      "size": 2983815
+    },
+    {
       "path": "core/z_Craft_Base_Furniture.pak",
       "sha": "016e768989dce64d77c146bd3542bb0cf468d427",
       "size": 101036
+    },
+    {
+      "path": "core/zz_Dinghy_speed_max.pak",
+      "sha": "6e6bcd8c62a1fe117c1be37bc063fb4116f80b95",
+      "size": 1646
     },
     {
       "path": "core/zzz_AMURKA_mini_map.pak",
@@ -193,9 +183,29 @@
       "size": 8467911
     },
     {
+      "path": "core/zzz_BrickRosewood_P.pak",
+      "sha": "7c3d79b8c5e89c760d6111d6c34c267503220c86",
+      "size": 8411660
+    },
+    {
       "path": "core/zzz_TCBackpack_Volume_P.pak",
       "sha": "90c3bed38d3914a22305aafea4b35f561da3f335",
       "size": 3637
+    },
+    {
+      "path": "core/zzz_TwigRosewood_P.pak",
+      "sha": "0033e501679489e3cac808d6bd456ecab77e7830",
+      "size": 4217602
+    },
+    {
+      "path": "core/zzz_WallGloss_P_fixed.pak",
+      "sha": "25f86d3643d68303406ebb6a4476b1aa703bd77b",
+      "size": 1762869
+    },
+    {
+      "path": "core/zzz_WoodRosewood_P.pak",
+      "sha": "62d9c17a5ccac4b49cd78bb2553905649570b9f6",
+      "size": 16823077
     },
     {
       "path": "core/zzzz_Craft_BCU_Weapons_P.pak",
@@ -241,146 +251,6 @@
       "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.sig",
       "sha": "872416e494957111c0d2300503fde0c847178175",
       "size": 532
-    },
-    {
-      "path": "skins/z_CarPaint_Chrome.pak",
-      "sha": "cf4311d1b181638d5acf73cc4d409a2b03f70b20",
-      "size": 2983815
-    },
-    {
-      "path": "skins/z_PlanePaint_Chrome.pak",
-      "sha": "c4577b3915b6d97da4d639d3fcd86d318b30c65f",
-      "size": 798009
-    },
-    {
-      "path": "skins/zzz_AMURKA_StabproofVest_P.pak",
-      "sha": "c8aafcf7b1affd7ea22a806151e75bf295133875",
-      "size": 1400525
-    },
-    {
-      "path": "skins/zzz_AMURKA_TCBackpack_P.pak",
-      "sha": "c1037674e92e363f8a996928dfe92626d72bfdd2",
-      "size": 2341999
-    },
-    {
-      "path": "skins/zzz_Backpack_AMURKA_P.pak",
-      "sha": "806bed7ea08ae16f42e718aa5e83af0d4b791923",
-      "size": 1400507
-    },
-    {
-      "path": "skins/zzz_Hospital_Shirt_Pants_P.pak",
-      "sha": "1401c245475f2603df9b82e846ce58c7b501ad3b",
-      "size": 2455434
-    },
-    {
-      "path": "skins/zzz_LeatherJacket_AMURKA_P.pak",
-      "sha": "38dd2108bfcd21d05d072b514e729eeb65e66e31",
-      "size": 1372377
-    },
-    {
-      "path": "skins/zzz_MilitarySet_AMURKA_P.pak",
-      "sha": "79293f123bc7fab619d36e0b0620e7fdf7f16d56",
-      "size": 7423233
-    },
-    {
-      "path": "skins/zzz_Skins_AMURKA_P.pak",
-      "sha": "e04e5914bcc67410232e979166ccaecebeffc9c6",
-      "size": 13775356
-    },
-    {
-      "path": "skins/zzz_TacticalSet_AMURKA_P.pak",
-      "sha": "caa107ce7b72f116bf3ed77a9e0bcea835e6a460",
-      "size": 2358692
-    },
-    {
-      "path": "skins/zzz_TightsMC_AMURKA_P.pak",
-      "sha": "f4c46bf528a6cd83058e53e8dfe865c30cad6075",
-      "size": 1304092
-    },
-    {
-      "path": "skins/zzz_Tights_And_LeatherJacket_AMURKA_P.pak",
-      "sha": "f8751b1dc1858fed689f576cb0c631a49db24cb1",
-      "size": 1530471
-    },
-    {
-      "path": "skins/zzzz_DannyTrejo_Shirt_P.pak",
-      "sha": "3110a6931822d5ba955dd3605540c01df585960f",
-      "size": 43687
-    },
-    {
-      "path": "skins/zzzz_DesertCamo_CleanLeggings_P.pak",
-      "sha": "474df7026cd11393c8da809a87358429c4c2f9dc",
-      "size": 5889263
-    },
-    {
-      "path": "skins/zzzz_Hoodie_Snow_New_P.pak",
-      "sha": "cbbbcca52b643e4b42ec1d8c7774fa5468f0cd61",
-      "size": 351744
-    },
-    {
-      "path": "skins/zzzz_JailSet_P.pak",
-      "sha": "e5113b5f11f851d18c119b07824ec520f7470a73",
-      "size": 15080416
-    },
-    {
-      "path": "skins/zzzz_Kilt_Pack_P.pak",
-      "sha": "d7d942d48d745e5a8f9320a6d15dd8c9555abe75",
-      "size": 5600979
-    },
-    {
-      "path": "skins/zzzz_MultiCam_P.pak",
-      "sha": "7d176c405ab8d1e0873e6c3293f0a7ba24f992b8",
-      "size": 345776
-    },
-    {
-      "path": "skins/zzzz_Pants_New_P.pak",
-      "sha": "d5a2185149bdf80b587c4d0dd71b6e9765b1ce0e",
-      "size": 703335
-    },
-    {
-      "path": "skins/zzzz_Qipao_Yellow_P.pak",
-      "sha": "02982e834087355ea8b83c3964f2bee638feb17d",
-      "size": 528651
-    },
-    {
-      "path": "skins/zzzz_Shirt_New_P.pak",
-      "sha": "c28c7af111c7662f9e7fc43750e74158cb3689b9",
-      "size": 11189512
-    },
-    {
-      "path": "skins/zzzz_Shoes_New_P.pak",
-      "sha": "28d221e28a0b44353e09aef90f903a7d0c21a249",
-      "size": 351816
-    },
-    {
-      "path": "skins/zzzz_TCBackpack_Texture_P.pak",
-      "sha": "0728b0b3e287dbbd9d135cc723ddf931c55edca1",
-      "size": 1400576
-    },
-    {
-      "path": "speed/zz_Dinghy_speed_max.pak",
-      "sha": "6e6bcd8c62a1fe117c1be37bc063fb4116f80b95",
-      "size": 1646
-    },
-    {
-      "path": "weapons/zzz_AKM_Gold.pak",
-      "sha": "a666a119243531a50bebb999c4640866b0d5f5f5",
-      "size": 6995100
-    },
-    {
-      "path": "weapons/zzz_Block21_AMURKA_P.pak",
-      "sha": "873150cc2db36e26a95fe0e375af0fc6cb68de9e",
-      "size": 6995090
-    },
-    {
-      "path": "weapons/zzz_RPG7_Gold.pak",
-      "sha": "b152ab016a20e88ec195b57d3ffb5d117cf06f26",
-      "size": 6298177
-    },
-    {
-      "path": "weapons/zzz_RPK_Gold.pak",
-      "sha": "6d9e460b0baeac7ddde7374a9542100e84d2bfe2",
-      "size": 13987846
     }
   ]
 }
