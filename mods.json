@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "e8cd01c49f3e1153dfa582cd64d5bdf898a0292d",
+  "revision": "2ad482a36c6935cc904a829685b71619e8238cb2",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -163,6 +163,26 @@
       "size": 536
     },
     {
+      "path": "core/pakchunk991-Amurka_1024_P.pak",
+      "sha": "1f92eb6241b4265a12f1b5eb841bc5d518c509a9",
+      "size": 73814584
+    },
+    {
+      "path": "core/pakchunk991-Amurka_1024_P.sig",
+      "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
+      "size": 908064
+    },
+    {
+      "path": "core/pakchunk992-ModsRegistry_1024_P.pak",
+      "sha": "5722b4d89e9a3a66a1850ea4094b6cd60fae5154",
+      "size": 9097688
+    },
+    {
+      "path": "core/pakchunk992-ModsRegistry_1024_P.sig",
+      "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
+      "size": 908064
+    },
+    {
       "path": "core/z_CarPaint_Chrome.pak",
       "sha": "cf4311d1b181638d5acf73cc4d409a2b03f70b20",
       "size": 2983815
@@ -241,16 +261,6 @@
       "path": "core/zzzzzz_TwitchDLC_P.sig",
       "sha": "20d04c70294007837e413b51fcb1c95d6e1c9e22",
       "size": 902220
-    },
-    {
-      "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.pak",
-      "sha": "598cd69c25ed2f2560d24eeaabc10f59538d3521",
-      "size": 49361830
-    },
-    {
-      "path": "core/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_999_P.sig",
-      "sha": "872416e494957111c0d2300503fde0c847178175",
-      "size": 532
     }
   ]
 }
