@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "ba9fe13048328e25df55d138afb33422febc6bca",
+  "revision": "a612a1b5787b4a42c0497d2659c7770d5b475fb2",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -246,6 +246,11 @@
       "path": "core/zzzz_SCUM_NewLoadingScreen_P.pak",
       "sha": "789e7bfb57b9fe6481f3650799ac33b4f8b7227f",
       "size": 12445972
+    },
+    {
+      "path": "core/zzzz_SCUM_NewLoadingScreen_P.sig",
+      "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
+      "size": 908064
     },
     {
       "path": "core/zzzzz_Bosses_And_Nurse_P.pak",
