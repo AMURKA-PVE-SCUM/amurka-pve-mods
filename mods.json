@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "2e7d8fbd6bd3beb1d31fcccf1ab94b984780b945",
+  "revision": "f5bd13a0551c0c3eca7758dde58c1e4ae14d3bc8",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -178,12 +178,12 @@
       "size": 536
     },
     {
-      "path": "core/pakchunk991-Amurka_1024_P.pak",
-      "sha": "1f92eb6241b4265a12f1b5eb841bc5d518c509a9",
-      "size": 73814584
+      "path": "core/pakchunk991-Amurka_1034_P.pak",
+      "sha": "067d27b6d6ec7692ae23682005229006f44a8be3",
+      "size": 67631466
     },
     {
-      "path": "core/pakchunk991-Amurka_1024_P.sig",
+      "path": "core/pakchunk991-Amurka_1034_P.sig",
       "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
       "size": 908064
     },
