@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "a4b7b1d146df167ecaf1af50d437f3eba7007f0b",
+  "revision": "2e7d8fbd6bd3beb1d31fcccf1ab94b984780b945",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -144,8 +144,8 @@
     },
     {
       "path": "core/pakchunk916-Bell47_P.pak",
-      "sha": "c11a20cf1f4cf74a58eeb255f22cb97b785484ff",
-      "size": 56952095
+      "sha": "64a9bd73dec2303b280ffd6b2be4bae015527c8b",
+      "size": 56952196
     },
     {
       "path": "core/pakchunk916-Bell47_P.sig",
@@ -154,8 +154,8 @@
     },
     {
       "path": "core/pakchunk917-TrotterFly_P.pak",
-      "sha": "31e8063779b217cc5ca59dd311773e60543f4d0b",
-      "size": 43480522
+      "sha": "5a7f01594634b42a53d475b786ef56391d5c0af6",
+      "size": 43480620
     },
     {
       "path": "core/pakchunk917-TrotterFly_P.sig",
@@ -164,8 +164,18 @@
     },
     {
       "path": "core/pakchunk918-Slingshot_P.pak",
-      "sha": "7e7a08d14f32e613ad06eaa097b155c0d581b217",
-      "size": 52802742
+      "sha": "b8bc583f52f35e344b67cc4c03c19fdcd22540b3",
+      "size": 52804261
+    },
+    {
+      "path": "core/pakchunk927-SeaDooQuadPrototype_P.pak",
+      "sha": "e50527fbca8a436dce53aad60e4c1587c7bd4370",
+      "size": 18836541
+    },
+    {
+      "path": "core/pakchunk927-SeaDooQuadPrototype_P.sig",
+      "sha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1",
+      "size": 536
     },
     {
       "path": "core/pakchunk991-Amurka_1024_P.pak",
@@ -178,9 +188,19 @@
       "size": 908064
     },
     {
+      "path": "core/pakchunk994-maxperegruz_P.pak",
+      "sha": "8192799633b0334e471c51424c727fb54b9fe531",
+      "size": 50445
+    },
+    {
+      "path": "core/pakchunk994-maxperegruz_P.sig",
+      "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
+      "size": 908064
+    },
+    {
       "path": "core/pakchunk995-KatanaPack_P.pak",
-      "sha": "007e3f94612a26955444e71b63a752559f99b68e",
-      "size": 38630166
+      "sha": "9a0a6805710b233adfa0e78dbad792f9f67c3e30",
+      "size": 36543834
     },
     {
       "path": "core/pakchunk995-KatanaPack_P.sig",
@@ -274,8 +294,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "sha": "0284621d3f235c01b65f55063a53382f40932747",
-      "size": 49728205
+      "sha": "709735d94353d296080dfe1cbfa8bef3ec38f3af",
+      "size": 7621653
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
