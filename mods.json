@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "215e48e96ffc4299ecb5a25db0cfc9b539cdd791",
+  "revision": "1619c3479c89e11ab112da88b06008d79e825a3f",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -208,6 +208,26 @@
       "size": 536
     },
     {
+      "path": "core/pakchunk996-AmurkaRebellion_P.pak",
+      "sha": "d63430e12ac90c900d0dad159ce0326cd6396723",
+      "size": 28430854
+    },
+    {
+      "path": "core/pakchunk996-AmurkaRebellion_P.sig",
+      "sha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1",
+      "size": 536
+    },
+    {
+      "path": "core/pakchunk997-AmurkaAxe_P.pak",
+      "sha": "9e192bad68f0ff0220b15613d68591a88bacafa2",
+      "size": 20057442
+    },
+    {
+      "path": "core/pakchunk997-AmurkaAxe_P.sig",
+      "sha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1",
+      "size": 536
+    },
+    {
       "path": "core/z_CarPaint_Chrome.pak",
       "sha": "cf4311d1b181638d5acf73cc4d409a2b03f70b20",
       "size": 2983815
@@ -294,8 +314,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "sha": "98eae8f6fd54e500f74b78e10a7c8dfc7abc862f",
-      "size": 7622477
+      "sha": "2e8937aeb3a2b75b4bff4ede7ce9620d294c1f12",
+      "size": 7623070
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
