@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-07",
+  "files": [
+    {
+      "path": "Client/pakchunk996-AmurkaRebellion_P.pak",
+      "size": 28430854,
+      "sha256": "e9435c98f844cca100d701a02f307857989d87da1e1e49275cc7f96d772294be"
+    },
+    {
+      "path": "Client/pakchunk996-AmurkaRebellion_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Client/pakchunk997-AmurkaAxe_P.pak",
+      "size": 20057442,
+      "sha256": "23ca717a1c926fe4e005baec22dd736417b9a3e49233cc204189f59e9dbee7cb"
+    },
+    {
+      "path": "Client/pakchunk997-AmurkaAxe_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Client/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
+      "size": 7623070,
+      "sha256": "a74e4c39e318fda7fcfbd2193e8a528a43f29d3e930e2ee29ab3934378353cc4"
+    },
+    {
+      "path": "Client/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Server/pakchunk927-SeaDooQuadPrototype_P.pak",
+      "size": 18837447,
+      "sha256": "3f3674ddefcfbb8cd1ec0ee4fd694167c95df15514592a87c932ecac0bed9d37"
+    },
+    {
+      "path": "Server/pakchunk927-SeaDooQuadPrototype_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Server/pakchunk995-KatanaPack_P.pak",
+      "size": 39862660,
+      "sha256": "a0e50d709c14dcfac0c679f1debc1598d4e75becfce59dfeb55dd1aba0cc4ac8"
+    },
+    {
+      "path": "Server/pakchunk995-KatanaPack_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Server/pakchunk996-AmurkaRebellion_P.pak",
+      "size": 28430854,
+      "sha256": "e9435c98f844cca100d701a02f307857989d87da1e1e49275cc7f96d772294be"
+    },
+    {
+      "path": "Server/pakchunk996-AmurkaRebellion_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Server/pakchunk997-AmurkaAxe_P.pak",
+      "size": 20057442,
+      "sha256": "23ca717a1c926fe4e005baec22dd736417b9a3e49233cc204189f59e9dbee7cb"
+    },
+    {
+      "path": "Server/pakchunk997-AmurkaAxe_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988"
+    },
+    {
+      "path": "Server/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
+      "size": 7623103,
+      "sha256": "d1b0179d0658cb401514273f981c35ad8ae2a9747f9af7136905d9238897cf71"
+    },
+    {
+      "path": "Server/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
+      "size": 536,
+      "sha256": "350389316cf3d162cd76124bb5b43eccd591641a54d6cf1fbd62dc38216abf93"
+    }
+  ]
+}
