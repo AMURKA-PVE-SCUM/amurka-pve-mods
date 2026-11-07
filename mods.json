@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "f5bd13a0551c0c3eca7758dde58c1e4ae14d3bc8",
+  "revision": "215e48e96ffc4299ecb5a25db0cfc9b539cdd791",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -169,8 +169,8 @@
     },
     {
       "path": "core/pakchunk927-SeaDooQuadPrototype_P.pak",
-      "sha": "e50527fbca8a436dce53aad60e4c1587c7bd4370",
-      "size": 18836541
+      "sha": "33fd1f71d3c1068a28961e02858ce7ae808fca01",
+      "size": 18837766
     },
     {
       "path": "core/pakchunk927-SeaDooQuadPrototype_P.sig",
@@ -199,8 +199,8 @@
     },
     {
       "path": "core/pakchunk995-KatanaPack_P.pak",
-      "sha": "9a0a6805710b233adfa0e78dbad792f9f67c3e30",
-      "size": 36543834
+      "sha": "9b32de3bd28ea36292c804b99f195ab99024d1ea",
+      "size": 39862660
     },
     {
       "path": "core/pakchunk995-KatanaPack_P.sig",
@@ -294,8 +294,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "sha": "709735d94353d296080dfe1cbfa8bef3ec38f3af",
-      "size": 7621653
+      "sha": "98eae8f6fd54e500f74b78e10a7c8dfc7abc862f",
+      "size": 7622477
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
