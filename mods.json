@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "1619c3479c89e11ab112da88b06008d79e825a3f",
+  "revision": "00431e98e3002adc7ed9cf9d56682b44a703c404",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -314,8 +314,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "sha": "2e8937aeb3a2b75b4bff4ede7ce9620d294c1f12",
-      "size": 7623070
+      "sha": "9af60920fb7ba196afbcde3d69b719c263a8436e",
+      "size": 7623537
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
