@@ -23,8 +23,8 @@
     },
     {
       "path": "Client/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "size": 7623070,
-      "sha256": "a74e4c39e318fda7fcfbd2193e8a528a43f29d3e930e2ee29ab3934378353cc4"
+      "size": 7623537,
+      "sha256": "435be80d8fa8fc35fe8adc258ac4911df895b185c4de5117811cf31f95b6e79f"
     },
     {
       "path": "Client/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
@@ -73,13 +73,15 @@
     },
     {
       "path": "Server/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "size": 7623103,
-      "sha256": "d1b0179d0658cb401514273f981c35ad8ae2a9747f9af7136905d9238897cf71"
+      "size": 7623632,
+      "sha256": "3305530991c1f5685c9ae6d076b09829af727414caac4010a448ee67b406e279"
     },
     {
       "path": "Server/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
       "size": 536,
       "sha256": "350389316cf3d162cd76124bb5b43eccd591641a54d6cf1fbd62dc38216abf93"
     }
-  ]
+  ],
+  "registry_fix": "10 paired Blueprint records added; GeneratedClass links and typed PrimaryAssetName tags verified",
+  "production_activation": "pending planned server stop"
 }
