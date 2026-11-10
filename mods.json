@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "ab3146500b0ee2be16a4aa0145e0f3a78ac1dc30",
+  "revision": "227b4e61b6276be2b14bb9e1b696db1f4fd96dee",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -281,11 +281,6 @@
       "path": "core/zzzz_SCUM_NewLoadingScreen_P.sig",
       "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
       "size": 908064
-    },
-    {
-      "path": "core/zzzzz_Bosses_And_Nurse_P.pak",
-      "sha": "b94e2508d302bc700c9d8e16ae1f5d90115e725d",
-      "size": 15486139
     },
     {
       "path": "core/zzzzzz_TwitchDLC_P.pak",
