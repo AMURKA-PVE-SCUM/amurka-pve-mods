@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "7b7bb9d305b1f45baeb76f7c37cc22e21c759c84",
+  "revision": "ab3146500b0ee2be16a4aa0145e0f3a78ac1dc30",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -160,11 +160,6 @@
     {
       "path": "core/pakchunk917-TrotterFly_P.sig",
       "sha": "01511155988f95bb33e738a18e7725d5e07aa69b",
-      "size": 536
-    },
-    {
-      "path": "core/pakchunk927-SeaDooQuadPrototype_P.sig",
-      "sha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1",
       "size": 536
     },
     {
