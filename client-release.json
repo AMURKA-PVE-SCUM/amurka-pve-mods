@@ -1,0 +1,385 @@
+{
+  "gameVersion": "1.3.6.0.177121",
+  "steamClientBuild": "26593778",
+  "date": "2026-11-12",
+  "pakCount": 50,
+  "files": [
+    {
+      "path": "core/AdminComand.pak",
+      "size": 10165,
+      "sha256": "c3b98b3830aa3d78ff4914433e39c609a06bcef23840c8ece2499a49265e67c2",
+      "gitBlobSha": "95ba564654a1e569a58777f11e51fcfede2d0b2f"
+    },
+    {
+      "path": "core/AllAmmoStacks100.pak",
+      "size": 623097,
+      "sha256": "5ed352b2a0980a5bf75b44e90403bcf2439c167edc8a057d3c95bab63c49281c",
+      "gitBlobSha": "5357315c24982c144ad2dcc5074a83337d5f389a"
+    },
+    {
+      "path": "core/Batareyka.pak",
+      "size": 5219,
+      "sha256": "0e7515eea310f64d0fc9290e9c9e610448648bea877fa0a1cd3903e9823c4d10",
+      "gitBlobSha": "a9a3678b87fbebfcb36d0b7c2e854e27226db3c9"
+    },
+    {
+      "path": "core/BistroeVostonovlenieVodyStaminy.pak",
+      "size": 8458,
+      "sha256": "634cdd2f0daa221415de14a98bb07e0e7e4331a0b9c88b048d883f0a08582659",
+      "gitBlobSha": "116ca23e33e6e0bc77315215116e01bb961c7a67"
+    },
+    {
+      "path": "core/Bronik.pak",
+      "size": 21387,
+      "sha256": "90a233a8cd03602ce7b0a15a713d2e6d26f343e15d583a8640cf398dd538c7b3",
+      "gitBlobSha": "eb00d326aa52d82c773ddab818b1a89d16df10ec"
+    },
+    {
+      "path": "core/Bronik2.pak",
+      "size": 20154,
+      "sha256": "8500f8250dd3d6cbed06bec6429cb1bbc32f9fc2cbfcefdd596501923e654906",
+      "gitBlobSha": "051a2e55db76bd036cc40f5464794963ec832112"
+    },
+    {
+      "path": "core/DryQuickMOD-byKZ.pak",
+      "size": 4191,
+      "sha256": "7bd34482f222779d33673f5a6f280b1d03f50931766bb82da9a309aa9ac3bfa3",
+      "gitBlobSha": "57cde4d288eab9043dd01733f3e025e68cb4d85b"
+    },
+    {
+      "path": "core/FoodCommandADMIN-byKZ.pak",
+      "size": 3722,
+      "sha256": "e57a7c4c1a3e3a0709f48668c942a87e8f16d239145b1d8b4bc66292b347cc02",
+      "gitBlobSha": "50c3a97c62a65efb17b7a15fd0ec0f0b7a587376"
+    },
+    {
+      "path": "core/Gena5000_12x12.pak",
+      "size": 10980,
+      "sha256": "d824e3740e2fa398a899fe47eab44757a5580dd1f67086f253c46105f9d0016b",
+      "gitBlobSha": "963f3e6977ccef53c433e8e85335bdc4f2839c1d"
+    },
+    {
+      "path": "core/Koptilka.pak",
+      "size": 28298,
+      "sha256": "fb690f57464d4f0f979b824ab1f4a7ae651b83db1d57082ad01ecad688b88a75",
+      "gitBlobSha": "36b13a0e058f4075f5cd68001159d876ba042aec"
+    },
+    {
+      "path": "core/KostumZombi.pak",
+      "size": 4646,
+      "sha256": "93f4877f9b949f5a4cd6633c34536c9e338011c024078ed7e9f5871bcae1a4da",
+      "gitBlobSha": "77558e9769bb81392df14bd564aa9633f37ecd13"
+    },
+    {
+      "path": "core/Map.pak",
+      "size": 39855610,
+      "sha256": "7267ec3ba23ad01e1a0388a670b3b529ee42e8adfcc5a9debf3d44a59dc65fab",
+      "gitBlobSha": "fd1c8f76a33aca9dc8dfb9b1d354cfb63a2cbd04"
+    },
+    {
+      "path": "core/NetZaplatok.pak",
+      "size": 7002256,
+      "sha256": "e435c39032e1909e030c0413064b517772f0ccf5425ea39099fea8b2dabf4f82",
+      "gitBlobSha": "a541ee9fb891679d6f094f2f18dae919350db3bd"
+    },
+    {
+      "path": "core/PoyasNew.pak",
+      "size": 4952,
+      "sha256": "3b11089e9feed89adab32480144fffea4c732c0d8d69e51b022172c48a913f2a",
+      "gitBlobSha": "10acfe6b6dee403e5348565dc272c915e3654407"
+    },
+    {
+      "path": "core/RemkaOtvertkaKraskaStaki.pak",
+      "size": 524967,
+      "sha256": "c2833ca3ef4892f10946501acd9be81185cd5c5f55506f46e7d9fc123deb2cfb",
+      "gitBlobSha": "1d93bce214e81b81b8c5c37db9e6c20d1819833b"
+    },
+    {
+      "path": "core/Rukzak12x100x2000kg.pak",
+      "size": 20013,
+      "sha256": "a2eb9f8201fc101af7307d030ba98998ccfdbb2574ace1d2ebaaffb4cb2d2323",
+      "gitBlobSha": "5d690458ca1e76471e0598b4b8d36d503a0a43b7"
+    },
+    {
+      "path": "core/SCUM_UnofficialEditorModLoader_P.pak",
+      "size": 57479,
+      "sha256": "8ab7b0a9bb05abe7fe81952106eba1dffa9dc02911dedc3217410301420b8e92",
+      "gitBlobSha": "8d396a853960992955beba42f544713aa593f36e"
+    },
+    {
+      "path": "core/Samolety.pak",
+      "size": 31315,
+      "sha256": "f8d76e4ca4f3774a62aa9a26aced5a58fdae3d98582c49b23c1d45118f4e1973",
+      "gitBlobSha": "696aed986ae14388d5627b6bfc86b7065ec9af79"
+    },
+    {
+      "path": "core/Swords.pak",
+      "size": 50724,
+      "sha256": "3997a91ce38e536fbc9acd79ad05ab02374f8cc53eebd84bc5f5c4dbe296842d",
+      "gitBlobSha": "e4ae6968a78795a99ca84a89eb9c2bc1cfc7d09b"
+    },
+    {
+      "path": "core/UltraJoint_P.pak",
+      "size": 66689,
+      "sha256": "f5702dc3e6931580761debb6df114c682734cac1db8334aea9788a9067957409",
+      "gitBlobSha": "922c27c9efadd94fae23904928fa7d4055cdc39b"
+    },
+    {
+      "path": "core/morskayaVOda.pak",
+      "size": 7883,
+      "sha256": "9ea510d589ee516c51bbc0298694f76df8250be4a0dc0be99c1c6f9203c001b7",
+      "gitBlobSha": "26b8eded7dec7c1eab29c66dbf899ec55ec6a5de"
+    },
+    {
+      "path": "core/odejdaNePachkaetsy.pak",
+      "size": 9055,
+      "sha256": "6f98fef09d21ca1f3a27e70d478cfd1c9c533640f6a4aceca8fd45f9399b2887",
+      "gitBlobSha": "deb2e8581a8797c3e9b0c5b7c1afa632621190df"
+    },
+    {
+      "path": "core/pakchunk901-CustomFurnitureModCraftables_P.pak",
+      "size": 65928994,
+      "sha256": "ccfc5570dcf4f2ad4a06b101e7b73528fb6a46f88aebbcb2adf0720a86ac4169",
+      "gitBlobSha": "58175262346bff2c66e09ccb33656a6e84770712"
+    },
+    {
+      "path": "core/pakchunk901-CustomFurnitureModCraftables_P.sig",
+      "size": 536,
+      "sha256": "50d8dbec9e88b5d1b29b24e06a4ed894078e39cd4bbba76f1d7d7b572df75f43",
+      "gitBlobSha": "27a37bf89b0ff717e5cd4c085eecb36fc6e9fea9"
+    },
+    {
+      "path": "core/pakchunk916-Bell47_P.pak",
+      "size": 57010760,
+      "sha256": "f224509ffa3c4581f0d74bcd370d07bb90755b6709c929843dfed9c1d7c1b7bc",
+      "gitBlobSha": "3988dd0ff22871a31d183a03138ea1119403d5d8"
+    },
+    {
+      "path": "core/pakchunk916-Bell47_P.sig",
+      "size": 536,
+      "sha256": "6b53df0413a59f49bc115b7205dd6267398e17c7b977b2daf4b2f4b1fa8abfd6",
+      "gitBlobSha": "01511155988f95bb33e738a18e7725d5e07aa69b"
+    },
+    {
+      "path": "core/pakchunk917-TrotterFly_P.pak",
+      "size": 43557213,
+      "sha256": "603bc4c6f7b7551ef33f7544128c479e065ad6dd9d9a6cb0eb00295a4917aa74",
+      "gitBlobSha": "5564a8d40fac4da050b7b1858c9a0ef2827d3c09"
+    },
+    {
+      "path": "core/pakchunk917-TrotterFly_P.sig",
+      "size": 536,
+      "sha256": "6b53df0413a59f49bc115b7205dd6267398e17c7b977b2daf4b2f4b1fa8abfd6",
+      "gitBlobSha": "01511155988f95bb33e738a18e7725d5e07aa69b"
+    },
+    {
+      "path": "core/pakchunk918-Slingshot_P.pak",
+      "size": 53125582,
+      "sha256": "56d5969a7d90766093ce99810b092914df0ad073370be03817346f5ef879b019",
+      "gitBlobSha": "995ee574ccbd4851adbd304692b80603aa852019"
+    },
+    {
+      "path": "core/pakchunk933-BrabusNativeBase_P.pak",
+      "size": 76380507,
+      "sha256": "7018e60cd75a9fdd87788af7c517db961971f4d82c0f2e823e8ebcbab1b73c11",
+      "gitBlobSha": "ea66c26b5b6ed58e7ec693f792051c3a53b7d449"
+    },
+    {
+      "path": "core/pakchunk934-BrabusNativeAssets_P.pak",
+      "size": 76314704,
+      "sha256": "865b26a95eb6837a90f1c5edaf8cf1e2b45703f9711042ef33af43c2ea773735",
+      "gitBlobSha": "d01cd6f233fb9d379728d5f5b0de634dde9cd180"
+    },
+    {
+      "path": "core/pakchunk935-BrabusNativeTextures_P.pak",
+      "size": 76937627,
+      "sha256": "8120a2ba1fa40e7821577bc2e6fb409fe5d706e6759a89157473565269519e06",
+      "gitBlobSha": "9adb9349e319d88438a32acd6cf08f522a1de691"
+    },
+    {
+      "path": "core/pakchunk991-Amurka_1034_P.pak",
+      "size": 67968555,
+      "sha256": "5ea315b95e898958272c578aa60698edbe210226bee828a2c4da2710ebdcf167",
+      "gitBlobSha": "4727aea21299f4a8ef7774411becbeb55fea4ce5"
+    },
+    {
+      "path": "core/pakchunk991-Amurka_1034_P.sig",
+      "size": 908064,
+      "sha256": "d71b319f75f0e4e787c10ac56ce25cd6c297a4d964f3812ffa160def2c16436f",
+      "gitBlobSha": "07538c49019c3031efc5981392b6e724d5c5e0b4"
+    },
+    {
+      "path": "core/pakchunk994-maxperegruz_P.pak",
+      "size": 11340,
+      "sha256": "cfe0a44402ea3094c06277643d32a3ec363a2f5bb06b7e088847cf113b7aa2ed",
+      "gitBlobSha": "589ad9295be2dadc85aaf77dc39f7296ec7e35c4"
+    },
+    {
+      "path": "core/pakchunk994-maxperegruz_P.sig",
+      "size": 532,
+      "sha256": "0bfaf8b9cf8ca570b67058685b9056f06c66e62d0fd0608aae435100efab200e",
+      "gitBlobSha": "872416e494957111c0d2300503fde0c847178175"
+    },
+    {
+      "path": "core/pakchunk995-KatanaPack_P.pak",
+      "size": 39862660,
+      "sha256": "a0e50d709c14dcfac0c679f1debc1598d4e75becfce59dfeb55dd1aba0cc4ac8",
+      "gitBlobSha": "9b32de3bd28ea36292c804b99f195ab99024d1ea"
+    },
+    {
+      "path": "core/pakchunk995-KatanaPack_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988",
+      "gitBlobSha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1"
+    },
+    {
+      "path": "core/pakchunk996-AmurkaRebellion_P.pak",
+      "size": 28430854,
+      "sha256": "e9435c98f844cca100d701a02f307857989d87da1e1e49275cc7f96d772294be",
+      "gitBlobSha": "d63430e12ac90c900d0dad159ce0326cd6396723"
+    },
+    {
+      "path": "core/pakchunk996-AmurkaRebellion_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988",
+      "gitBlobSha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1"
+    },
+    {
+      "path": "core/pakchunk997-AmurkaAxe_P.pak",
+      "size": 20289712,
+      "sha256": "77ae717d7cf3fbb1cb8fceec6b48ffb02f015c2c53322e2b847d4d808b9c9af8",
+      "gitBlobSha": "f35d3f0506d31335d1e6840c92ac61691c39719b"
+    },
+    {
+      "path": "core/pakchunk997-AmurkaAxe_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988",
+      "gitBlobSha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1"
+    },
+    {
+      "path": "core/z_CarPaint_Chrome.pak",
+      "size": 2983815,
+      "sha256": "a5b61e60cccf75399dc460fa16cbd67efd21e46884799d78c1348eea92bde84a",
+      "gitBlobSha": "cf4311d1b181638d5acf73cc4d409a2b03f70b20"
+    },
+    {
+      "path": "core/z_Craft_Base_Furniture.pak",
+      "size": 101036,
+      "sha256": "dee1e8bbe5942cdd800bce081e5a4d9214dfc4c672aadaf6835c70cd57ab7a3f",
+      "gitBlobSha": "016e768989dce64d77c146bd3542bb0cf468d427"
+    },
+    {
+      "path": "core/zz_Dinghy_speed_max.pak",
+      "size": 1646,
+      "sha256": "d8ece1e26c6ad39ee4d25ce567aedfda87da51e9d8878b7da42c3ec90cb03a8c",
+      "gitBlobSha": "6e6bcd8c62a1fe117c1be37bc063fb4116f80b95"
+    },
+    {
+      "path": "core/zzz_AMURKA_mini_map.pak",
+      "size": 8467911,
+      "sha256": "a9ea70d8e03568de418e42e827e0997e339e0b021385fd66dbeafb9c36448313",
+      "gitBlobSha": "1c55d992268b56f42a57cb805028e9468ee7ab88"
+    },
+    {
+      "path": "core/zzz_BrickRosewood_P.pak",
+      "size": 8411660,
+      "sha256": "f2903f9bffa2b0be28b2a514845b0013aa2a245fd1a215dc9ef027c84450cf00",
+      "gitBlobSha": "7c3d79b8c5e89c760d6111d6c34c267503220c86"
+    },
+    {
+      "path": "core/zzz_TCBackpack_Volume_P.pak",
+      "size": 3637,
+      "sha256": "07c4138c1ad780e7ed90130c4fc87e6a8ba95ea13102276f8e81d3c7f49bf831",
+      "gitBlobSha": "90c3bed38d3914a22305aafea4b35f561da3f335"
+    },
+    {
+      "path": "core/zzz_TwigRosewood_P.pak",
+      "size": 4217602,
+      "sha256": "221409469bdfbbbe18b187f8a21cf45ed613739086ea3d4cd87f8226956693c3",
+      "gitBlobSha": "0033e501679489e3cac808d6bd456ecab77e7830"
+    },
+    {
+      "path": "core/zzz_WallGloss_P_fixed.pak",
+      "size": 1762869,
+      "sha256": "36fe36adb3d0c44c4da44f260b610f5ff17683984160b7522c4ea605d9d96e18",
+      "gitBlobSha": "25f86d3643d68303406ebb6a4476b1aa703bd77b"
+    },
+    {
+      "path": "core/zzz_WoodRosewood_P.pak",
+      "size": 16823077,
+      "sha256": "3e8afdeb496f153fe2236a3d7a1a21b5fa77d44a260776ff0b5542cb304ea869",
+      "gitBlobSha": "62d9c17a5ccac4b49cd78bb2553905649570b9f6"
+    },
+    {
+      "path": "core/zzzz_Craft_BCU_Weapons_P.pak",
+      "size": 22276,
+      "sha256": "58bf76aa48c59e4367f25ead7ec6ac4977b8564f6804659a4cf595224e6a3129",
+      "gitBlobSha": "a5412e79e24b9202b526c170bd226dc4d446ea2b"
+    },
+    {
+      "path": "core/zzzz_CustomFurniture_Well_Bed_Lamps_P.pak",
+      "size": 73282,
+      "sha256": "f959da6801c692451aa51cbb103f8d042c1a40fb6d0ec63a65373de5ff3b2912",
+      "gitBlobSha": "dcd74ef3ed2e92a62b6d3edbff587b785db6590c"
+    },
+    {
+      "path": "core/zzzz_SCUM_BoostOfEnergy_AllStats_Hybrid_NewBase_P.pak",
+      "size": 9617,
+      "sha256": "e18eb4e5ef56868a4dcc20008ade24a3cebc4eff88799391d61fc0ba9ebc0137",
+      "gitBlobSha": "47532fbfd545e6e1be9c9e1cd9a1915af57c01b0"
+    },
+    {
+      "path": "core/zzzz_SCUM_NewLoadingScreen_P.pak",
+      "size": 12445972,
+      "sha256": "c71e80e5a2c7cd73bae14c9dc23826d3d21c476a1e28d0f43e3fd52a8e5bbe98",
+      "gitBlobSha": "789e7bfb57b9fe6481f3650799ac33b4f8b7227f"
+    },
+    {
+      "path": "core/zzzz_SCUM_NewLoadingScreen_P.sig",
+      "size": 908064,
+      "sha256": "d71b319f75f0e4e787c10ac56ce25cd6c297a4d964f3812ffa160def2c16436f",
+      "gitBlobSha": "07538c49019c3031efc5981392b6e724d5c5e0b4"
+    },
+    {
+      "path": "core/zzzzz_Bosses_And_Nurse_P.pak",
+      "size": 15402906,
+      "sha256": "eb69343faba3292e160dec1d11c5c94c6f2e4bb63f5ac39e6953ba6bae3ad675",
+      "gitBlobSha": "b77532188b191379c3238e69c190a7b8c3533030"
+    },
+    {
+      "path": "core/zzzzzz_TwitchDLC_P.pak",
+      "size": 9218952,
+      "sha256": "f76c9ad7e1feeba9b7448046266f3938b59478828886fb821f56be5332b84461",
+      "gitBlobSha": "f9f3aed3d6e1675ccf39c9718c3f7a0cc59ce749"
+    },
+    {
+      "path": "core/zzzzzz_TwitchDLC_P.sig",
+      "size": 902220,
+      "sha256": "5b270ba7058b1bf68e176883de9e046172da7746670ccfe7c6b9c4d6cdeba2ef",
+      "gitBlobSha": "20d04c70294007837e413b51fcb1c95d6e1c9e22"
+    },
+    {
+      "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
+      "size": 7588765,
+      "sha256": "2498838a2e48f4b25060bed6e3e2ffd5945640c6ef7bc7575b4a56d1ba673601",
+      "gitBlobSha": "65d346bb7989ba3659396aff898413c7c164506d"
+    },
+    {
+      "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
+      "size": 536,
+      "sha256": "1851121f11a852f105529ae5e0e6a0afa2b3b4adbbd51c39d7615b58f02a2988",
+      "gitBlobSha": "c5abf2a9b7fcd420e61b9405767e64ac407319a1"
+    }
+  ],
+  "obsoleteFiles": [
+    "PanOnly.pak",
+    "PrisonerRespawningFlightSuit.pak",
+    "maxperegruz_P.pak",
+    "maxperegruz_P.sig"
+  ],
+  "brabusParts": [
+    "pakchunk933-BrabusNativeBase_P.pak",
+    "pakchunk934-BrabusNativeAssets_P.pak",
+    "pakchunk935-BrabusNativeTextures_P.pak"
+  ]
+}
