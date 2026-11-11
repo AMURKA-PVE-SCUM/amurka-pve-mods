@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "227b4e61b6276be2b14bb9e1b696db1f4fd96dee",
+  "revision": "eee3ccf231ce8afce21831318ef489ad5fc8ef4e",
   "files": [
     {
       "path": "core/AdminComand.pak",
@@ -68,19 +68,9 @@
       "size": 7002256
     },
     {
-      "path": "core/PanOnly.pak",
-      "sha": "dae99c014e0fc5412675084e35636517e3bec030",
-      "size": 138330
-    },
-    {
       "path": "core/PoyasNew.pak",
       "sha": "10acfe6b6dee403e5348565dc272c915e3654407",
       "size": 4952
-    },
-    {
-      "path": "core/PrisonerRespawningFlightSuit.pak",
-      "sha": "d80a2836f78268ddafa4c734215e0875bde602aa",
-      "size": 25499
     },
     {
       "path": "core/RemkaOtvertkaKraskaStaki.pak",
@@ -99,8 +89,8 @@
     },
     {
       "path": "core/Samolety.pak",
-      "sha": "b6c599a96f45577312210193948dca02f36b94e2",
-      "size": 114981
+      "sha": "696aed986ae14388d5627b6bfc86b7065ec9af79",
+      "size": 31315
     },
     {
       "path": "core/Swords.pak",
@@ -111,16 +101,6 @@
       "path": "core/UltraJoint_P.pak",
       "sha": "922c27c9efadd94fae23904928fa7d4055cdc39b",
       "size": 66689
-    },
-    {
-      "path": "core/maxperegruz_P.pak",
-      "sha": "589ad9295be2dadc85aaf77dc39f7296ec7e35c4",
-      "size": 11340
-    },
-    {
-      "path": "core/maxperegruz_P.sig",
-      "sha": "872416e494957111c0d2300503fde0c847178175",
-      "size": 532
     },
     {
       "path": "core/morskayaVOda.pak",
@@ -144,8 +124,8 @@
     },
     {
       "path": "core/pakchunk916-Bell47_P.pak",
-      "sha": "64a9bd73dec2303b280ffd6b2be4bae015527c8b",
-      "size": 56952196
+      "sha": "3988dd0ff22871a31d183a03138ea1119403d5d8",
+      "size": 57010760
     },
     {
       "path": "core/pakchunk916-Bell47_P.sig",
@@ -154,8 +134,8 @@
     },
     {
       "path": "core/pakchunk917-TrotterFly_P.pak",
-      "sha": "5a7f01594634b42a53d475b786ef56391d5c0af6",
-      "size": 43480620
+      "sha": "5564a8d40fac4da050b7b1858c9a0ef2827d3c09",
+      "size": 43557213
     },
     {
       "path": "core/pakchunk917-TrotterFly_P.sig",
@@ -163,9 +143,29 @@
       "size": 536
     },
     {
+      "path": "core/pakchunk918-Slingshot_P.pak",
+      "sha": "995ee574ccbd4851adbd304692b80603aa852019",
+      "size": 53125582
+    },
+    {
+      "path": "core/pakchunk933-BrabusNativeBase_P.pak",
+      "sha": "ea66c26b5b6ed58e7ec693f792051c3a53b7d449",
+      "size": 76380507
+    },
+    {
+      "path": "core/pakchunk934-BrabusNativeAssets_P.pak",
+      "sha": "d01cd6f233fb9d379728d5f5b0de634dde9cd180",
+      "size": 76314704
+    },
+    {
+      "path": "core/pakchunk935-BrabusNativeTextures_P.pak",
+      "sha": "9adb9349e319d88438a32acd6cf08f522a1de691",
+      "size": 76937627
+    },
+    {
       "path": "core/pakchunk991-Amurka_1034_P.pak",
-      "sha": "067d27b6d6ec7692ae23682005229006f44a8be3",
-      "size": 67631466
+      "sha": "4727aea21299f4a8ef7774411becbeb55fea4ce5",
+      "size": 67968555
     },
     {
       "path": "core/pakchunk991-Amurka_1034_P.sig",
@@ -174,13 +174,13 @@
     },
     {
       "path": "core/pakchunk994-maxperegruz_P.pak",
-      "sha": "8192799633b0334e471c51424c727fb54b9fe531",
-      "size": 50445
+      "sha": "589ad9295be2dadc85aaf77dc39f7296ec7e35c4",
+      "size": 11340
     },
     {
       "path": "core/pakchunk994-maxperegruz_P.sig",
-      "sha": "07538c49019c3031efc5981392b6e724d5c5e0b4",
-      "size": 908064
+      "sha": "872416e494957111c0d2300503fde0c847178175",
+      "size": 532
     },
     {
       "path": "core/pakchunk995-KatanaPack_P.pak",
@@ -204,8 +204,8 @@
     },
     {
       "path": "core/pakchunk997-AmurkaAxe_P.pak",
-      "sha": "9e192bad68f0ff0220b15613d68591a88bacafa2",
-      "size": 20057442
+      "sha": "f35d3f0506d31335d1e6840c92ac61691c39719b",
+      "size": 20289712
     },
     {
       "path": "core/pakchunk997-AmurkaAxe_P.sig",
@@ -283,6 +283,11 @@
       "size": 908064
     },
     {
+      "path": "core/zzzzz_Bosses_And_Nurse_P.pak",
+      "sha": "b77532188b191379c3238e69c190a7b8c3533030",
+      "size": 15402906
+    },
+    {
       "path": "core/zzzzzz_TwitchDLC_P.pak",
       "sha": "f9f3aed3d6e1675ccf39c9718c3f7a0cc59ce749",
       "size": 9218952
@@ -294,8 +299,8 @@
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.pak",
-      "sha": "9af60920fb7ba196afbcde3d69b719c263a8436e",
-      "size": 7623537
+      "sha": "65d346bb7989ba3659396aff898413c7c164506d",
+      "size": 7588765
     },
     {
       "path": "core/zzzzzzzzzzzzzzzz_pakchunk999-ModsRegistry_9999_P.sig",
